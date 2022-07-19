@@ -43,7 +43,7 @@ class Motorsiklet extends Arac{
 Aşağıdaki örnekte Araç sınıfını Kamyon sınıfı miras almıştır. Araç sınıfı içerisinde yer alan metodu her ikisinden oluşturulan nesnede çağırabilmektedir. Ayrıca Araç sınıfının tekerler özelliğine kamyon nesnesi erişebilmekte. Tüm bunları kalıtım sayesinde yapabilmekteyiz. Bu sayede defalarca aynı şeyleri yazmak yerine bağlantı kurarak temiz ve anlaşılır kod yazabiliyoruz.
 
 ```java
-public class Kalitim {
+public class Inheritance {
     
     public static void main(String[] args) {
         

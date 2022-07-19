@@ -1,0 +1,4 @@
+# Inheritance (Kalıtım)
+En basit tanımıyla atadan oğula bırakılan mirastır. Nesne Tabanlı Programlama açısından bir sınıfın başka bir sınıftan özellikleri miras almasıdır. Java dilinde bir oğulun yalnızca bir ata sınıfı olabilir. Kalıtım ile mümkün olan miras alma sınırı birdir. Kalıtım, sınıfların birbirinden miras alarak ortak metot ve özellikleri kullanmasını sağlamak için kullanılır. Aşağıdaki şemadan görüldüğü üzere Araç sınıfının özelliklerinden 3 farklı sınıf faydalanabilmiş. Bu sayede kod yükü azalmış ve tekrar tekrar aynı şeyleri yazmaya gerek kalmamış.
+
+![image](/table/inheritance_kalitim_diagram.jpg)
